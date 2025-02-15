@@ -1,4 +1,4 @@
-# 💫 Sobre Mi:
+# 🐱‍👤 Sobre Mi:
 🚀 Me apasionan los desafíos tecnológicos de todo tipo<br>🎓 Estudiante de Ingeniería en informática <br>🏦 Facultad De Ingeniería - Universidad de Buenos Aires<br>🏢 Grupo IEB - Soluciones Algorítmicas<br>👾 Ayudante de Cátedra - Taller de Programación - Cátedra Veiga<br>⚽ De Boca como Román 💙💛💙<br>
 
 
