@@ -9,7 +9,7 @@ Entre otros!
 
 # Repositorios propios y colaboraciones interesantes:
 
--  [Jazz JackRabbit 2 - Online Remake](https://github.com/tomdv18/TpFinalTaller) Remake del clasico juego arcade Jazz JackRabbit 2
+-  [**Jazz JackRabbit 2 - Online Remake**](https://github.com/tomdv18/TpFinalTaller) Remake del clasico juego arcade Jazz JackRabbit 2 con compatibilidad para multijugador online
 
 -  [**Unity - AI**](https://github.com/jmdieguez/unity-ai) Proyecto de entrenamiento de modelos de IA con aprendizaje por refuerzo en Unity.
 
