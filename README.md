@@ -13,14 +13,9 @@ Entre otros!
 
 -  [**Unity - AI**](https://github.com/jmdieguez/unity-ai) Proyecto de entrenamiento de modelos de IA con aprendizaje por refuerzo en Unity.
 
+-  [**Sistema Distribuido Tolerante a Fallas**](https://github.com/tomdv18/tp1-distribuidos) Sistema Distribuido separado en nodos de procesamientos de datos relacionados a informacion de peliculas, actores y ratings de los espectadores. Tolerante a caidas de cualquiera de sus nodos.
+
 -  [**FileSystem FUSE**](https://github.com/tomdv18/SisOp-FileSystem) File System FUSE desarrollado en el lenguaje C
 
 -  [**Femeball Scrapper**](https://colab.research.google.com/drive/1k5SSsSR2eqdzdni6KZsuhHDgSbqTVl0A?usp=sharing) Scrapper de la web de la Federacion de Handball de Buenos Aires para obtener datos estadísticos de goles y partidos
 
-
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tomdv18&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=tomdv18&icon=0&color=0)](https://visitcount.itsvg.in)
